@@ -1,5 +1,8 @@
 ## 渐变图片创建
 
+### 分享色彩网站
+👇👇👇[传送门](http://encycolorpedia.com/)👇👇👇
+
 ### 示例代码
 ```swift
 func imageForColors(colors: Array<UIColor> = [], withFrame frame: CGRect) -> UIImage? {
