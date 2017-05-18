@@ -9,5 +9,6 @@
 - [Kingfisher](https://github.com/onevcat/Kingfisher) A lightweight, pure-Swift library for downloading and caching images from the web.
 - [ExSwift](https://github.com/pNre/ExSwift) A set of Swift extensions for standard types and classes
 - [HanekeSwift](https://github.com/Haneke/HanekeSwift) A lightweight generic cache for iOS written in Swift with extra love for images.
+- [Permission](https://github.com/delba/Permission) A unified API to ask for permissions on iOS
 
 
