@@ -8,7 +8,7 @@
 我发了一个问题，一般的都可以按这个模版写下去。
 
 ### 还有什么方式？
-你可以把你的问题及解决方式发到我邮箱coderjianfeng@foxmail.com，我来整理，记住把github用户名给我，我整理好后会邮件通知你。
+你可以issue或者把你的问题及解决方式发到我邮箱coderjianfeng@foxmail.com，我来整理，记住把github用户名给我，我整理好后会邮件通知你。
 
 
 
