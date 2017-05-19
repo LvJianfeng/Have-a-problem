@@ -1,9 +1,9 @@
 ## 渐变图片创建
 
-### 色彩网站
+#### 色彩网站
 分享->👇👇👇[传送门](http://encycolorpedia.com/)👇👇👇
 
-### 示例代码
+#### 示例代码
 ```swift
 func imageForColors(colors: Array<UIColor> = [], withFrame frame: CGRect) -> UIImage? {
     guard colors.count > 0 else {
@@ -30,5 +30,8 @@ func imageForColors(colors: Array<UIColor> = [], withFrame frame: CGRect) -> UII
     return image
 }
 ```
+
+#### 注意
+以上内容为个人整理，如果有问题有出入或者你有更好的解决方法，还请赐教哦，感谢。
 
 
